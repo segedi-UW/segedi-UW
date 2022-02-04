@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @segedi-UW (Anthony Segedi)
 - 👀 I’m interested in becoming a professional software developer
-- 🌱 I’m currently learning computer science skills at an intermediate level
+- 🌱 I’m currently learning computer science skills at an advanced level
 - 💞️ I’m looking to collaborate on anything fun, helpful, etc
 - 📫 You can reach me at segedi@wisc.edu - response time should be within a few days if applicable
 
