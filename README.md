@@ -1,4 +1,4 @@
-I am a problem solver with a cool head - and a cool head of hair that has been growing steadily more silver since I was a young kid.
+I am a problem solver with a cool head - and a cool head of hair that has been growing steadily more silver since I was a kid.
 
 Working inside and outside of the classroom, driven by my passion to understand and accomplish more with my knowledge I have improved my skills in preparation for when I have the opportunity to put them to use.
 
