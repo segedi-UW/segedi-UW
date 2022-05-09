@@ -1,7 +1,8 @@
 I am AJ -
 
 I enjoy learning and problem solving, and I am sick enough in the head to prefer using Vim over an IDE most of the time. 
-As soon as I figure out how to write an adequate vimscript to handle most of the extra things an IDE does it will be all the time!
+As soon as I figure out how to write an adequate vimscript to handle most of the extra things an IDE does it will be all the time! Otherwise
+I will be using IDE's with their vim motion plugins.
 
 I enjoy low level programming, particularly with C, but have spent a copious amount of time in Java, and recently the Javascript/CSS/HTML stack.
 
